@@ -6,6 +6,15 @@
 
 ---
 
+## 👥 Project Team & Contributors
+
+| Member Name | Role & Core Responsibilities | GitHub Profile |
+| :--- | :--- | :--- |
+| **Shubhi Kumari** | Full-Stack Streamlit Dashboard, Executive Hub, UI Theming & PPT Documentation | [@Shubhi-Kumari679](https://github.com/Shubhi-Kumari679) |
+| **[Friend / Teammate Name]** | ETL Pipeline, Database Architecture, Time Series Forecasting & Testing | [@FriendGitHubUsername](https://github.com/) |
+
+---
+
 ## 1. Project Overview & Aim
 
 Food waste in institutional facilities such as hostels, college canteens, restaurants, and catering events represents a significant economic loss and environmental burden. The **Food Waste Analytics and Management System** is an interactive, data-driven web dashboard developed to:
