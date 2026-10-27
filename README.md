@@ -11,7 +11,7 @@
 | Member Name | Role & Core Responsibilities | GitHub Profile |
 | :--- | :--- | :--- |
 | **Shubhi Kumari** | Full-Stack Streamlit Dashboard, Executive Hub, UI Theming & PPT Documentation | [@Shubhi-Kumari-dev](https://github.com/Shubhi-Kumari-dev) |
-| **[Friend / Teammate Name]** | ETL Pipeline, Database Architecture, Time Series Forecasting & Testing | [@FriendGitHubUsername](https://github.com/) |
+| **Shaivi Bhasin** | ETL Pipeline, Database Architecture, Time Series Forecasting & Testing | [@shaivibhasin](https://github.com/shaivibhasin) |
 
 ---
 

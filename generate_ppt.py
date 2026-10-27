@@ -156,7 +156,7 @@ def build_presentation(output_path="Food_Waste_Analytics_Presentation.pptx"):
     r.font.color.rgb = CLR_SAFFRON
     p2 = tf.add_paragraph()
     r2 = p2.add_run()
-    r2.text = "• Technology Stack: Python, Streamlit, Plotly, Pandas, NumPy, Scikit-Learn, Statsmodels (ARIMA), SQLite\n• Evaluation Criteria: EDA, Outlier Profiling, Time-Series Smoothing, Regression Modeling & Decision Support\n• Presenter: [Student Name / Group Members] | Department of Computer Science & Engineering"
+    r2.text = "• Technology Stack: Python, Streamlit, Plotly, Pandas, NumPy, Scikit-Learn, Statsmodels (ARIMA), SQLite\n• Evaluation Criteria: EDA, Outlier Profiling, Time-Series Smoothing, Regression Modeling & Decision Support\n• Project Team: Shubhi Kumari & Shaivi Bhasin | Department of Computer Science & Engineering"
     r2.font.size = Pt(10)
     r2.font.color.rgb = CLR_TEXT_LIGHT_MUTED
 
